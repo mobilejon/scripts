@@ -39,7 +39,7 @@
     "appActionIfMaximumPinRetriesExceeded":  "wipe",
     "pinRequiredInsteadOfBiometricTimeout":  "PT12H",
     "allowedOutboundClipboardSharingExceptionLength":  0,
-    "notificationRestriction":  "Allowed",
+    "notificationRestriction":  "Allow",
     "previousPinBlockCount":  0,
     "managedBrowser":  "notConfigured",
     "maximumAllowedDeviceThreatLevel":  "notConfigured",
